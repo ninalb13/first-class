@@ -68,7 +68,7 @@ bool j1App::Awake()
 	if (result)
 	{
 		LOG("The file has been loaded");
-
+		branch = config.first_child();
 	}
 	else
 	{

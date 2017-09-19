@@ -1,3 +1,4 @@
-﻿  j1App.cpp
-  Motor2D.vcxproj -> C:\Users\ninalb\Desktop\Dev_class2_handout\Dev_class2_handout\Debug\Motor 2D.exe
-  Motor2D.vcxproj -> C:\Users\ninalb\Desktop\Dev_class2_handout\Dev_class2_handout\Debug\Motor 2D.pdb (Full PDB)
+﻿  j1Window.cpp
+  LINK : C:\Users\ninalb\Documents\GitHub\first-class\Dev_class2_handout\Dev_class2_handout\Debug\Motor 2D.exe not found or not built by the last incremental link; performing full link
+  Motor2D.vcxproj -> C:\Users\ninalb\Documents\GitHub\first-class\Dev_class2_handout\Dev_class2_handout\Debug\Motor 2D.exe
+  Motor2D.vcxproj -> C:\Users\ninalb\Documents\GitHub\first-class\Dev_class2_handout\Dev_class2_handout\Debug\Motor 2D.pdb (Full PDB)
